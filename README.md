@@ -1,5 +1,6 @@
 # Crypto  Abitrage
-_This analysis explores arbitrage opportunities in Bitcoin and other cryptocurrencies to capitalize on price dislocations accross different global markets . This analayis was performed on historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. The bitsstamp and coinbase datasets covering the period 1 January 2018 to 31 March 2018 were used._
+
+This analysis explores arbitrage opportunities in Bitcoin and other cryptocurrencies to capitalize on price dislocations accross different global markets . This analayis was performed on historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. The bitsstamp and coinbase datasets covering the period 1 January 2018 to 31 March 2018 were used.
 ---
 
 ## Libraries used
